@@ -1,0 +1,85 @@
+
+
+.panel-join
+{
+    background-size: cover;
+    padding: 50px;
+    background-color: #394A5A;
+    background-image: url('../images/crowd.jpg');
+    color: #ffffff;
+}
+
+.panel-great-projects
+{
+    padding: 50px;
+    background-size: Cover;
+    background-color: #ffffff;
+}
+
+.panel-outside
+{
+    padding: 50px;
+    background-size: cover;
+    background-color: #394A5A;
+    background-image: url('../images/rural-america.jpg');
+    color: #fff;
+}
+
+.panel-meeting-mode
+{
+    padding: 50px;
+    background-size: Cover;
+    background-color: #ffffff;
+}
+
+.panel-social-ribbon
+{
+    min-height: 100px;
+    max-height: 150px;
+    padding: 50px;
+    background-color: #4A4A4A;
+}
+
+.panel-footer
+{
+    padding: 50px;
+    max-height: 500px;
+    height: 150px;
+    background-color: #000000;
+    color: #ffffff;
+    border: 0px;
+}
+
+.join-box
+{
+    width: 290px;
+    height: 290px;
+    background: #ffffff;
+    color: #000000;
+    padding: 10px 10px 25px;
+    text-align: center;
+}
+
+.join-row
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.panel-premium
+{
+    padding: 50px;
+    background-size: Cover;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.join-input-group
+{
+    width: 200px;
+}
+
+.join-btn-group
+{
+    width: 260px;
+}
+

@@ -1,0 +1,45 @@
+
+
+.panel-join
+{
+    background-size: cover;
+    padding: 50px;
+    background-image: url('../images/crowd.jpg');
+    background-color: 394A5A;
+}
+
+.panel-great-projects
+{
+    padding: 50px;
+    background-size: Cover;
+    background-color: #43d728;
+}
+
+.panel-outside
+{
+    padding: 50px;
+    background-size: cover;
+    background-color: #2bb1c3;
+}
+
+.panel-meeting-mode
+{
+    padding: 50px;
+    background-size: Cover;
+    background-color: #afdf33;
+}
+
+.panel-social-ribbon
+{
+    min-height: 100px;
+    max-height: 150px;
+    padding: 50px;
+}
+
+.panel-footer
+{
+    padding: 50px;
+    max-height: 500px;
+    height: 150px;
+}
+

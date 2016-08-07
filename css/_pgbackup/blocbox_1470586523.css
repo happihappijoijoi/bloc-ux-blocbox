@@ -1,0 +1,46 @@
+
+
+.panel-join
+{
+    background-size: cover;
+    padding: 50px;
+    background-color: #394A5A;
+    background-image: url('../images/crowd.jpg');
+}
+
+.panel-great-projects
+{
+    padding: 50px;
+    background-size: Cover;
+    background-color: #ffffff;
+}
+
+.panel-outside
+{
+    padding: 50px;
+    background-size: cover;
+    background-color: #394A5A;
+    background-image: url('../images/rural-america.jpg');
+}
+
+.panel-meeting-mode
+{
+    padding: 50px;
+    background-size: Cover;
+    background-color: #ffffff;
+}
+
+.panel-social-ribbon
+{
+    min-height: 100px;
+    max-height: 150px;
+    padding: 50px;
+}
+
+.panel-footer
+{
+    padding: 50px;
+    max-height: 500px;
+    height: 150px;
+}
+
